@@ -19,4 +19,4 @@
     <img align="center" alt="kali-linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia, estou em busca de mudar vidas pessoas e empresa através de uma tecnologia inovadora. 🚀
+Apaixonado por tecnologia, estou em busca de mudar vidas de pessoas e empresa através de uma tecnologia inovadora. 🚀
