@@ -20,3 +20,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, estou em busca de mudar vidas de pessoas e empresa através de uma tecnologia inovadora. 🚀
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
