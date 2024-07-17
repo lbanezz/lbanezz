@@ -9,9 +9,6 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbanezz&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbanezz&lshow_icons=true&theme=tokyonight&layout=compact"/> 
-</div>
-
 ### Tecnologias que possuo conhecimento.
 
 <div style="display: inline_block"><br/>
