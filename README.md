@@ -6,8 +6,8 @@
 [![Youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCebGqHTMJZ9CczXSDJO0LbA/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fellipe-029027123/)
 
-<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbanezz&show_icons=true&theme=tokyonight"/>
+
 
 ### Tecnologias que possuo conhecimento.
 
