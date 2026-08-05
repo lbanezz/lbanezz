@@ -1,26 +1,30 @@
+# David Fellipe Alves dos Reis
 
+### Blue Team | SOC | Infraestrutura e Segurança da Informação
 
-### Olá Eu sou David Fellipe ✌️
+Profissional de infraestrutura de TI em transição para **Blue Team/SOC**, com experiência em suporte corporativo, redes, Active Directory, Azure AD, TCP/IP, DNS, DHCP e tratamento de incidentes.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_zyzz19/)
-[![Youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCebGqHTMJZ9CczXSDJO0LbA/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fellipe-029027123/)
+Atualmente, aprofundo meus estudos em monitoramento de segurança, análise de logs, resposta a incidentes, Linux e segurança de redes.
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbanezz&show_icons=true&theme=tokyonight"/>
+## Tecnologias e conhecimentos
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbanezz&lshow_icons=true&theme=tokyonight&layout=compact"/> 
-</div>
+- Redes: TCP/IP, DNS, DHCP, conectividade e troubleshooting
+- Identidade: Active Directory e Azure Active Directory
+- Sistemas: Windows e Linux
+- Segurança: análise de incidentes, fundamentos de SOC, pentest em laboratório e criptografia
+- Ferramentas: Kali Linux, Nmap, Wireshark, Python e Git/GitHub
 
+## Projetos em destaque
 
-### Tecnologias que possuo conhecimento.
+- 🔐 Laboratório de ransomware: criptografia, recuperação e análise do processo em ambiente controlado
+- 🖥️ MyTens OS Linux: projeto de sistema Linux
+- 🎥 MyTens Web Security: conteúdo educativo sobre cibersegurança, segurança web e boas práticas
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="Lnux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img align="center" alt="kali-linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-</div><br/>
+## Objetivo profissional
 
-Apaixonado por tecnologia, estou em busca de mudar vidas de pessoas e empresa através de uma tecnologia inovadora. 🚀
+Busco oportunidade como **Analista SOC Júnior**, **Analista de Segurança da Informação Júnior** ou em funções de **Blue Team**, contribuindo com minha experiência em infraestrutura e evolução contínua em defesa cibernética.
+
+## Contato
+
+[LinkedIn](linkedin.com/in/davidreis-cybersecurity/ ) •
+[YouTube](https://www.youtube.com/@mytenswebsecurity)
