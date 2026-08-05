@@ -16,7 +16,7 @@ Atualmente, aprofundo meus estudos em monitoramento de segurança, análise de l
 
 ## Projetos em destaque
 
-- 🔐 Laboratório de ransomware: criptografia, recuperação e análise do processo em ambiente controlado
+- 🔐 Laboratório em blue team
 - 🖥️ MyTens OS Linux: projeto de sistema Linux
 - 🎥 MyTens Web Security: conteúdo educativo sobre cibersegurança, segurança web e boas práticas
 
